@@ -6,8 +6,8 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 22/2031045  |  Caio Magalhães Lamego |
-| 22/2037737  |  Matheus de Siqueira Brant |
+| 22/2006801  |  Henrique Carvalho Neves |
+| 22/2006641  |  Davi de Aguiar Vieira |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
@@ -16,7 +16,7 @@ Descreva os objetivos do seu projeto e como ele funciona.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
