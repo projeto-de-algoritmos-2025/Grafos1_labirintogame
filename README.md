@@ -8,6 +8,10 @@
 | 222006641 | Davi de Aguiar Vieira |
 | 222006801 | Henrique Carvalho Neves |
 
+## 📝 Entregas
+| Grafos 1 |
+|----------|
+| [Apresentação](https://youtu.be/du0I2ZHD-vA) 
 ---
 
 ## 🎯 Sobre o Projeto
@@ -105,3 +109,7 @@ python main.py
 
 Este projeto é uma forma prática e divertida de aplicar os conhecimentos de grafos, tornando conceitos abstratos em elementos visuais e interativos.  
 Além disso, incentiva a experimentação com algoritmos clássicos e sua comparação na prática.
+
+
+
+
